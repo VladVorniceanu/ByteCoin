@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ByteCoin-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ByteCoin-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ByteCoin-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ByteCoin-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/AppDelegate.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Controller/ViewController.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Model/CoinApiKey.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinApiKey.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinApiKey.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinApiKey.dia",
+    "index-unit-output-path" : "/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinApiKey.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinApiKey.bc",
+    "object" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinApiKey.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinApiKey.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinApiKey~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Model/CoinManager.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinManager.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinManager.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinManager.dia",
+    "index-unit-output-path" : "/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinManager.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinManager.bc",
+    "object" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinManager.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinManager.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinManager~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Model/CoinStatus.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinStatus.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinStatus.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinStatus.dia",
+    "index-unit-output-path" : "/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinStatus.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinStatus.bc",
+    "object" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinStatus.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinStatus.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/CoinStatus~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/SceneDelegate.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Build/Intermediates.noindex/ByteCoin.build/Debug-iphonesimulator/ByteCoin.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

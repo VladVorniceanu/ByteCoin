@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'ByteCoin' in project 'ByteCoin' (no dependencies)

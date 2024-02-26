@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+struct CoinApiKey{
+    let apiKey = "37224CDC-BA58-4384-BD64-2EA1D5D568F7"
+}

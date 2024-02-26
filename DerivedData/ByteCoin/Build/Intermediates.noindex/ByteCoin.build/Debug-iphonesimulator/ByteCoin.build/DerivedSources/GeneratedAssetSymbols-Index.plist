@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameBackgroundColor</string>
+			<key>relativePath</key>
+			<string>./Background Color.colorset</string>
+			<key>swiftSymbol</key>
+			<string>background</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameIconColor</string>
+			<key>relativePath</key>
+			<string>./Icon Color.colorset</string>
+			<key>swiftSymbol</key>
+			<string>icon</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameTitleColor</string>
+			<key>relativePath</key>
+			<string>./Title Color.colorset</string>
+			<key>swiftSymbol</key>
+			<string>title</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array/>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
