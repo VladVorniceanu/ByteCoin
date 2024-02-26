@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate{
+class ViewController: UIViewController{
     @IBOutlet weak var valueLabel: UILabel!
     @IBOutlet weak var currencyLabel: UILabel!
     @IBOutlet weak var currencyPicker: UIPickerView!
@@ -22,16 +22,21 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         currencyPicker.dataSource = self
         coinManager.delegate = self
     }
+}
     
-    //MARK: - PickerView Protocol Implementation
+//MARK: - UIPickerViewDataSource Protocol Implementation
+extension ViewController: UIPickerViewDataSource{
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
         return 1
     }
     
     func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
-            return coinManager.currencyArray.count
-        }
-        
+        return coinManager.currencyArray.count
+    }
+}
+
+//MARK: - UIPickerViewDelegate Protocol Implementation
+extension ViewController: UIPickerViewDelegate {
     func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
         return coinManager.currencyArray[row]
     }
@@ -57,7 +62,5 @@ extension ViewController: CoinManagerDelegate {
         alertController.addAction(alertAction)
         present(alertController, animated: true)
     }
-    
-    
 }
 

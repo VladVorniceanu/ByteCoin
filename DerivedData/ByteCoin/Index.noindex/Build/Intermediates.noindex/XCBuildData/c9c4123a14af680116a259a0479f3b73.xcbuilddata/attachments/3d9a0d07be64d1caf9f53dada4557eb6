@@ -1,0 +1,30 @@
+{
+  "" : {
+    "dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Index.noindex/Build/Intermediates.noindex/ByteCoin.build/Debug-iphoneos/ByteCoin.build/Objects-normal/arm64/ByteCoin-master.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Index.noindex/Build/Intermediates.noindex/ByteCoin.build/Debug-iphoneos/ByteCoin.build/Objects-normal/arm64/ByteCoin-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Index.noindex/Build/Intermediates.noindex/ByteCoin.build/Debug-iphoneos/ByteCoin.build/Objects-normal/arm64/ByteCoin-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Index.noindex/Build/Intermediates.noindex/ByteCoin.build/Debug-iphoneos/ByteCoin.build/Objects-normal/arm64/ByteCoin-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Index.noindex/Build/Intermediates.noindex/ByteCoin.build/Debug-iphoneos/ByteCoin.build/Objects-normal/arm64/ByteCoin-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/AppDelegate.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Controller/ViewController.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Model/CoinApiKey.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Model/CoinManager.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/Model/CoinStatus.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/ByteCoin/SceneDelegate.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/ByteCoin/DerivedData/ByteCoin/Index.noindex/Build/Intermediates.noindex/ByteCoin.build/Debug-iphoneos/ByteCoin.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

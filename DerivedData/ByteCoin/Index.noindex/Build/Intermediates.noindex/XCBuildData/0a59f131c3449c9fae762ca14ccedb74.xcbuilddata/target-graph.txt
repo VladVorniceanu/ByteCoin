@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'ByteCoin' in project 'ByteCoin' (no dependencies)
-Target 'ByteCoin' in project 'ByteCoin' (no dependencies)
